@@ -1,0 +1,501 @@
+URUN_KODU;URUN_ADI;KATEGORI;STOK;DEPO
+MAT-18F6;Pamuklu Tisort;Giyim;116;DEPO-1
+MAT-05BA;Kemer;Aksesuar;224;DEPO-3
+MAT-246A;Yuz Temizleme Jeli;Kozmetik;671;DEPO-1
+MAT-1F0D;Kahve Makinesi;Ev ve Yasam;395;DEPO-1
+MAT-1121;Bluetooth Kulaklik;Elektronik;31;DEPO-1
+MAT-25C2;Jean Pantolon;Giyim;68;DEPO-3
+MAT-0EA3;Kahve Makinesi;Ev ve Yasam;985;DEPO-3
+MAT-0B53;Dambil Seti;Spor;576;DEPO-1
+MAT-131A;Yuz Temizleme Jeli;Kozmetik;656;DEPO-1
+MAT-2640;Dizustu Bilgisayar;Elektronik;325;DEPO-2
+MAT-2141;Robot Supurge;Ev ve Yasam;574;DEPO-2
+MAT-1956;Kislik Bot;Giyim;965;DEPO-3
+MAT-06EF;Pamuklu Tisort;Giyim;952;DEPO-3
+MAT-0A19;Futbol Topu;Spor;881;DEPO-2
+MAT-12EB;Kosu Bandi;Spor;831;DEPO-1
+MAT-1A13;Robot Supurge;Ev ve Yasam;171;DEPO-2
+MAT-21B5;Yoga Matu;Spor;736;DEPO-1
+MAT-1EB7;Tenis Raketi;Spor;758;DEPO-2
+MAT-16E3;Kemer;Aksesuar;197;DEPO-1
+MAT-0BF6;Tablet;Elektronik;822;DEPO-1
+MAT-193F;Akilli Telefon;Elektronik;138;DEPO-3
+MAT-1E38;Nemlendirici;Kozmetik;401;DEPO-3
+MAT-1AEC;Gunes Kremi;Kozmetik;499;DEPO-3
+MAT-1003;Hava Temizleyici;Ev ve Yasam;144;DEPO-1
+MAT-1008;Deri Ceket;Giyim;57;DEPO-3
+MAT-0E93;Tenis Raketi;Spor;881;DEPO-2
+MAT-17A8;Nemlendirici;Kozmetik;748;DEPO-1
+MAT-12E8;Dambil Seti;Spor;14;DEPO-2
+MAT-1570;Dambil Seti;Spor;216;DEPO-3
+MAT-1F63;Robot Supurge;Ev ve Yasam;470;DEPO-3
+MAT-17E4;Bluetooth Kulaklik;Elektronik;105;DEPO-2
+MAT-0A76;Deri Cuzdan;Aksesuar;180;DEPO-1
+MAT-103D;Pamuklu Tisort;Giyim;805;DEPO-2
+MAT-0E6D;Nevresim Takimi;Ev ve Yasam;805;DEPO-2
+MAT-0A67;Dambil Seti;Spor;515;DEPO-3
+MAT-20C8;Jean Pantolon;Giyim;394;DEPO-1
+MAT-1AD0;Gunes Kremi;Kozmetik;268;DEPO-3
+MAT-1525;Dambil Seti;Spor;686;DEPO-1
+MAT-067F;Parfum;Kozmetik;984;DEPO-3
+MAT-129B;Futbol Topu;Spor;122;DEPO-2
+MAT-08F3;Dizustu Bilgisayar;Elektronik;519;DEPO-3
+MAT-2058;Mutfak Robotu;Ev ve Yasam;622;DEPO-1
+MAT-1669;Akilli Saat;Elektronik;229;DEPO-2
+MAT-1D68;Kol Saati;Aksesuar;412;DEPO-2
+MAT-0A93;Nevresim Takimi;Ev ve Yasam;739;DEPO-2
+MAT-1462;Spor Ayakkabi;Giyim;410;DEPO-3
+MAT-0F5B;Tenis Raketi;Spor;619;DEPO-2
+MAT-1C77;Dambil Seti;Spor;618;DEPO-1
+MAT-0DB7;Spor Ayakkabi;Giyim;358;DEPO-3
+MAT-1FA2;Kislik Bot;Giyim;941;DEPO-3
+MAT-247A;Mutfak Robotu;Ev ve Yasam;157;DEPO-3
+MAT-0F88;Jean Pantolon;Giyim;945;DEPO-3
+MAT-0AF2;Hava Temizleyici;Ev ve Yasam;997;DEPO-1
+MAT-1986;Dizustu Bilgisayar;Elektronik;999;DEPO-2
+MAT-1C77;Sampuan;Kozmetik;355;DEPO-1
+MAT-0BE9;Kislik Bot;Giyim;906;DEPO-2
+MAT-100C;Pamuklu Tisort;Giyim;169;DEPO-3
+MAT-104A;Akilli Telefon;Elektronik;668;DEPO-3
+MAT-0A58;Jean Pantolon;Giyim;977;DEPO-2
+MAT-0DE5;Spor Ayakkabi;Giyim;482;DEPO-3
+MAT-0F79;Tablet;Elektronik;905;DEPO-2
+MAT-0F1D;Robot Supurge;Ev ve Yasam;172;DEPO-1
+MAT-2488;Bluetooth Kulaklik;Elektronik;589;DEPO-1
+MAT-1717;Tenis Raketi;Spor;925;DEPO-3
+MAT-1667;Gunes Kremi;Kozmetik;42;DEPO-3
+MAT-261A;Yuz Temizleme Jeli;Kozmetik;447;DEPO-3
+MAT-1705;Parfum;Kozmetik;618;DEPO-3
+MAT-2324;Tablet;Elektronik;825;DEPO-3
+MAT-21E7;Spor Ayakkabi;Giyim;26;DEPO-2
+MAT-080C;Deri Cuzdan;Aksesuar;289;DEPO-1
+MAT-0646;Tablet;Elektronik;108;DEPO-1
+MAT-07BC;Pamuklu Tisort;Giyim;937;DEPO-3
+MAT-2467;Akilli Saat;Elektronik;27;DEPO-1
+MAT-192A;Robot Supurge;Ev ve Yasam;881;DEPO-2
+MAT-2266;Robot Supurge;Ev ve Yasam;164;DEPO-2
+MAT-06F8;Robot Supurge;Ev ve Yasam;113;DEPO-1
+MAT-2097;Akilli Saat;Elektronik;48;DEPO-1
+MAT-1B4A;Robot Supurge;Ev ve Yasam;827;DEPO-1
+MAT-19E1;Gunes Gozlugu;Aksesuar;912;DEPO-1
+MAT-0D28;Pamuklu Tisort;Giyim;785;DEPO-2
+MAT-1B5A;Yoga Matu;Spor;480;DEPO-3
+MAT-1B07;Deri Ceket;Giyim;736;DEPO-3
+MAT-12A1;Dambil Seti;Spor;584;DEPO-2
+MAT-213D;Kemer;Aksesuar;314;DEPO-2
+MAT-0DA3;Dambil Seti;Spor;622;DEPO-1
+MAT-0FD3;Gunes Gozlugu;Aksesuar;629;DEPO-1
+MAT-1F5B;Pamuklu Tisort;Giyim;359;DEPO-3
+MAT-1E77;Sampuan;Kozmetik;278;DEPO-2
+MAT-0A85;Deri Ceket;Giyim;668;DEPO-1
+MAT-1821;Sampuan;Kozmetik;960;DEPO-2
+MAT-245C;Kemer;Aksesuar;839;DEPO-3
+MAT-0A68;Bluetooth Kulaklik;Elektronik;67;DEPO-2
+MAT-2265;Dizustu Bilgisayar;Elektronik;127;DEPO-1
+MAT-10F7;Deri Cuzdan;Aksesuar;198;DEPO-3
+MAT-23AA;Deri Cuzdan;Aksesuar;85;DEPO-2
+MAT-203D;Yuz Temizleme Jeli;Kozmetik;706;DEPO-1
+MAT-182C;Yoga Matu;Spor;56;DEPO-1
+MAT-1DC1;Yoga Matu;Spor;441;DEPO-1
+MAT-20E5;Jean Pantolon;Giyim;743;DEPO-1
+MAT-0F09;Robot Supurge;Ev ve Yasam;189;DEPO-3
+MAT-0DA1;Robot Supurge;Ev ve Yasam;617;DEPO-1
+MAT-15EB;Deri Cuzdan;Aksesuar;25;DEPO-3
+MAT-1C87;Hava Temizleyici;Ev ve Yasam;484;DEPO-2
+MAT-1388;Sampuan;Kozmetik;966;DEPO-3
+MAT-18F3;Yuz Temizleme Jeli;Kozmetik;844;DEPO-1
+MAT-0812;Dizustu Bilgisayar;Elektronik;565;DEPO-1
+MAT-1A46;Gunes Gozlugu;Aksesuar;311;DEPO-2
+MAT-26D9;Sirt Cantasi;Aksesuar;44;DEPO-3
+MAT-26EF;Dizustu Bilgisayar;Elektronik;614;DEPO-2
+MAT-0589;Robot Supurge;Ev ve Yasam;124;DEPO-1
+MAT-21DC;Deri Ceket;Giyim;635;DEPO-1
+MAT-215F;Yuz Temizleme Jeli;Kozmetik;429;DEPO-1
+MAT-268B;Deri Cuzdan;Aksesuar;403;DEPO-1
+MAT-084A;Akilli Saat;Elektronik;557;DEPO-2
+MAT-1158;Tablet;Elektronik;704;DEPO-1
+MAT-1750;Akilli Saat;Elektronik;807;DEPO-1
+MAT-06C0;Bluetooth Kulaklik;Elektronik;351;DEPO-1
+MAT-0573;Nemlendirici;Kozmetik;454;DEPO-1
+MAT-14F0;Sampuan;Kozmetik;464;DEPO-2
+MAT-1956;Spor Ayakkabi;Giyim;153;DEPO-1
+MAT-1573;Sirt Cantasi;Aksesuar;34;DEPO-3
+MAT-121C;Gunes Gozlugu;Aksesuar;160;DEPO-1
+MAT-1811;Deri Cuzdan;Aksesuar;195;DEPO-3
+MAT-208A;Kosu Bandi;Spor;224;DEPO-1
+MAT-1E79;Nemlendirici;Kozmetik;760;DEPO-1
+MAT-0DD3;Robot Supurge;Ev ve Yasam;922;DEPO-1
+MAT-088F;Tenis Raketi;Spor;179;DEPO-1
+MAT-0E61;Mutfak Robotu;Ev ve Yasam;203;DEPO-1
+MAT-198D;Deri Cuzdan;Aksesuar;348;DEPO-1
+MAT-25E6;Bluetooth Kulaklik;Elektronik;336;DEPO-1
+MAT-102D;Gunes Gozlugu;Aksesuar;261;DEPO-3
+MAT-0F53;Yuz Temizleme Jeli;Kozmetik;191;DEPO-3
+MAT-1B41;Parfum;Kozmetik;540;DEPO-3
+MAT-1494;Dambil Seti;Spor;662;DEPO-2
+MAT-1DC3;Deri Ceket;Giyim;465;DEPO-1
+MAT-1D6A;Akilli Telefon;Elektronik;982;DEPO-2
+MAT-2180;Bluetooth Kulaklik;Elektronik;833;DEPO-1
+MAT-046D;Tenis Raketi;Spor;67;DEPO-1
+MAT-1716;Deri Cuzdan;Aksesuar;158;DEPO-2
+MAT-18CC;Sirt Cantasi;Aksesuar;685;DEPO-3
+MAT-1C16;Sampuan;Kozmetik;242;DEPO-1
+MAT-235D;Futbol Topu;Spor;268;DEPO-3
+MAT-0931;Akilli Saat;Elektronik;745;DEPO-2
+MAT-155C;Kislik Bot;Giyim;17;DEPO-2
+MAT-126F;Kislik Bot;Giyim;707;DEPO-2
+MAT-174C;Kislik Bot;Giyim;50;DEPO-3
+MAT-18B0;Futbol Topu;Spor;938;DEPO-1
+MAT-0EC3;Pamuklu Tisort;Giyim;761;DEPO-1
+MAT-10E4;Sirt Cantasi;Aksesuar;399;DEPO-2
+MAT-0B16;Yuz Temizleme Jeli;Kozmetik;930;DEPO-2
+MAT-20E2;Robot Supurge;Ev ve Yasam;886;DEPO-1
+MAT-0C79;Akilli Telefon;Elektronik;233;DEPO-3
+MAT-2101;Akilli Saat;Elektronik;72;DEPO-1
+MAT-1F02;Dambil Seti;Spor;698;DEPO-1
+MAT-204A;Dizustu Bilgisayar;Elektronik;520;DEPO-1
+MAT-0BB8;Gunes Gozlugu;Aksesuar;718;DEPO-3
+MAT-099C;Sirt Cantasi;Aksesuar;32;DEPO-1
+MAT-16B1;Deri Cuzdan;Aksesuar;467;DEPO-3
+MAT-2035;Tablet;Elektronik;466;DEPO-2
+MAT-1694;Akilli Saat;Elektronik;726;DEPO-2
+MAT-1143;Akilli Telefon;Elektronik;104;DEPO-3
+MAT-2689;Robot Supurge;Ev ve Yasam;447;DEPO-2
+MAT-14F3;Nemlendirici;Kozmetik;970;DEPO-2
+MAT-22C5;Pamuklu Tisort;Giyim;772;DEPO-1
+MAT-1F3C;Tablet;Elektronik;919;DEPO-2
+MAT-1EC9;Nemlendirici;Kozmetik;815;DEPO-2
+MAT-1F05;Robot Supurge;Ev ve Yasam;344;DEPO-3
+MAT-091B;Parfum;Kozmetik;258;DEPO-2
+MAT-1605;Bluetooth Kulaklik;Elektronik;768;DEPO-2
+MAT-0C6C;Gunes Kremi;Kozmetik;806;DEPO-2
+MAT-0EF8;Dizustu Bilgisayar;Elektronik;517;DEPO-1
+MAT-19A9;Nevresim Takimi;Ev ve Yasam;214;DEPO-2
+MAT-0B5A;Nemlendirici;Kozmetik;120;DEPO-1
+MAT-2500;Sampuan;Kozmetik;204;DEPO-3
+MAT-0687;Yuz Temizleme Jeli;Kozmetik;955;DEPO-1
+MAT-217A;Mutfak Robotu;Ev ve Yasam;798;DEPO-1
+MAT-1691;Kahve Makinesi;Ev ve Yasam;838;DEPO-2
+MAT-1CD0;Kol Saati;Aksesuar;533;DEPO-2
+MAT-2030;Kosu Bandi;Spor;803;DEPO-1
+MAT-0F26;Akilli Saat;Elektronik;57;DEPO-1
+MAT-08E4;Dizustu Bilgisayar;Elektronik;701;DEPO-3
+MAT-23BE;Kosu Bandi;Spor;87;DEPO-2
+MAT-15F5;Kemer;Aksesuar;708;DEPO-3
+MAT-1AD6;Nemlendirici;Kozmetik;517;DEPO-1
+MAT-1F0D;Robot Supurge;Ev ve Yasam;748;DEPO-3
+MAT-26B1;Tablet;Elektronik;48;DEPO-1
+MAT-0465;Dizustu Bilgisayar;Elektronik;821;DEPO-1
+MAT-1C00;Tablet;Elektronik;589;DEPO-2
+MAT-1CCB;Gunes Kremi;Kozmetik;120;DEPO-2
+MAT-1ED3;Hava Temizleyici;Ev ve Yasam;604;DEPO-2
+MAT-0E9B;Tablet;Elektronik;291;DEPO-2
+MAT-0754;Nemlendirici;Kozmetik;975;DEPO-1
+MAT-099C;Akilli Telefon;Elektronik;671;DEPO-1
+MAT-1F32;Yoga Matu;Spor;455;DEPO-2
+MAT-24DA;Futbol Topu;Spor;552;DEPO-1
+MAT-25BB;Deri Ceket;Giyim;741;DEPO-3
+MAT-0DDF;Jean Pantolon;Giyim;956;DEPO-2
+MAT-0736;Dizustu Bilgisayar;Elektronik;724;DEPO-2
+MAT-1D2D;Yuz Temizleme Jeli;Kozmetik;419;DEPO-2
+MAT-26BB;Spor Ayakkabi;Giyim;234;DEPO-1
+MAT-1C41;Jean Pantolon;Giyim;663;DEPO-2
+MAT-1F34;Sirt Cantasi;Aksesuar;268;DEPO-1
+MAT-03F1;Kosu Bandi;Spor;270;DEPO-3
+MAT-1F69;Kahve Makinesi;Ev ve Yasam;22;DEPO-2
+MAT-0926;Jean Pantolon;Giyim;622;DEPO-1
+MAT-0BB2;Akilli Telefon;Elektronik;920;DEPO-2
+MAT-0A2C;Gunes Kremi;Kozmetik;327;DEPO-2
+MAT-255F;Tenis Raketi;Spor;468;DEPO-1
+MAT-23CA;Kahve Makinesi;Ev ve Yasam;556;DEPO-1
+MAT-1B27;Yoga Matu;Spor;358;DEPO-3
+MAT-1CF5;Tablet;Elektronik;837;DEPO-2
+MAT-0F3A;Yuz Temizleme Jeli;Kozmetik;388;DEPO-2
+MAT-0640;Kahve Makinesi;Ev ve Yasam;758;DEPO-2
+MAT-1F07;Dizustu Bilgisayar;Elektronik;700;DEPO-1
+MAT-17FE;Futbol Topu;Spor;584;DEPO-3
+MAT-0C78;Akilli Telefon;Elektronik;234;DEPO-3
+MAT-124F;Nevresim Takimi;Ev ve Yasam;113;DEPO-3
+MAT-089A;Nemlendirici;Kozmetik;977;DEPO-2
+MAT-1908;Pamuklu Tisort;Giyim;487;DEPO-3
+MAT-0C84;Sampuan;Kozmetik;559;DEPO-1
+MAT-079E;Tablet;Elektronik;298;DEPO-2
+MAT-15EC;Deri Ceket;Giyim;644;DEPO-2
+MAT-2086;Tablet;Elektronik;824;DEPO-1
+MAT-126F;Pamuklu Tisort;Giyim;270;DEPO-1
+MAT-1294;Kislik Bot;Giyim;139;DEPO-3
+MAT-0701;Nemlendirici;Kozmetik;820;DEPO-3
+MAT-1BFE;Gunes Gozlugu;Aksesuar;824;DEPO-2
+MAT-0D73;Dambil Seti;Spor;227;DEPO-1
+MAT-07C0;Kosu Bandi;Spor;632;DEPO-3
+MAT-154B;Kislik Bot;Giyim;333;DEPO-1
+MAT-2643;Kemer;Aksesuar;808;DEPO-2
+MAT-2004;Akilli Saat;Elektronik;471;DEPO-1
+MAT-0AE8;Dambil Seti;Spor;823;DEPO-1
+MAT-0A55;Kemer;Aksesuar;429;DEPO-2
+MAT-0B26;Akilli Telefon;Elektronik;959;DEPO-3
+MAT-1FB0;Yuz Temizleme Jeli;Kozmetik;318;DEPO-1
+MAT-1D20;Kahve Makinesi;Ev ve Yasam;126;DEPO-2
+MAT-2626;Akilli Saat;Elektronik;253;DEPO-1
+MAT-230D;Mutfak Robotu;Ev ve Yasam;395;DEPO-3
+MAT-2589;Mutfak Robotu;Ev ve Yasam;356;DEPO-1
+MAT-1753;Nemlendirici;Kozmetik;772;DEPO-3
+MAT-0BAE;Futbol Topu;Spor;189;DEPO-2
+MAT-1C98;Kol Saati;Aksesuar;294;DEPO-3
+MAT-19BC;Parfum;Kozmetik;58;DEPO-3
+MAT-1150;Bluetooth Kulaklik;Elektronik;698;DEPO-2
+MAT-1826;Yoga Matu;Spor;710;DEPO-1
+MAT-0D9A;Tablet;Elektronik;900;DEPO-3
+MAT-1594;Tenis Raketi;Spor;486;DEPO-2
+MAT-06E8;Parfum;Kozmetik;599;DEPO-3
+MAT-1DDD;Robot Supurge;Ev ve Yasam;997;DEPO-1
+MAT-1726;Mutfak Robotu;Ev ve Yasam;653;DEPO-1
+MAT-16F1;Sirt Cantasi;Aksesuar;467;DEPO-3
+MAT-1163;Kosu Bandi;Spor;96;DEPO-3
+MAT-116E;Deri Ceket;Giyim;358;DEPO-1
+MAT-252F;Akilli Saat;Elektronik;63;DEPO-1
+MAT-201A;Sirt Cantasi;Aksesuar;618;DEPO-3
+MAT-0C47;Mutfak Robotu;Ev ve Yasam;97;DEPO-2
+MAT-15AB;Dambil Seti;Spor;509;DEPO-1
+MAT-1775;Tenis Raketi;Spor;744;DEPO-3
+MAT-26EE;Robot Supurge;Ev ve Yasam;682;DEPO-3
+MAT-1257;Sirt Cantasi;Aksesuar;390;DEPO-3
+MAT-1439;Pamuklu Tisort;Giyim;523;DEPO-1
+MAT-11F2;Gunes Gozlugu;Aksesuar;755;DEPO-3
+MAT-15BE;Mutfak Robotu;Ev ve Yasam;128;DEPO-1
+MAT-1F93;Kol Saati;Aksesuar;876;DEPO-2
+MAT-0E5F;Yoga Matu;Spor;68;DEPO-2
+MAT-105A;Dizustu Bilgisayar;Elektronik;218;DEPO-2
+MAT-24D4;Dizustu Bilgisayar;Elektronik;290;DEPO-3
+MAT-0DD5;Akilli Saat;Elektronik;13;DEPO-2
+MAT-270C;Nevresim Takimi;Ev ve Yasam;84;DEPO-2
+MAT-194B;Nevresim Takimi;Ev ve Yasam;50;DEPO-2
+MAT-1A8C;Hava Temizleyici;Ev ve Yasam;162;DEPO-2
+MAT-0A3E;Kahve Makinesi;Ev ve Yasam;638;DEPO-2
+MAT-0C02;Tenis Raketi;Spor;834;DEPO-3
+MAT-148F;Dambil Seti;Spor;619;DEPO-1
+MAT-25AE;Tablet;Elektronik;915;DEPO-1
+MAT-0FBC;Dizustu Bilgisayar;Elektronik;485;DEPO-2
+MAT-0FE3;Robot Supurge;Ev ve Yasam;831;DEPO-3
+MAT-169C;Akilli Saat;Elektronik;301;DEPO-3
+MAT-247C;Nevresim Takimi;Ev ve Yasam;788;DEPO-3
+MAT-24A2;Jean Pantolon;Giyim;816;DEPO-3
+MAT-141E;Kosu Bandi;Spor;632;DEPO-2
+MAT-211F;Tenis Raketi;Spor;298;DEPO-2
+MAT-0ACA;Kislik Bot;Giyim;253;DEPO-3
+MAT-1BD2;Akilli Saat;Elektronik;491;DEPO-1
+MAT-09DC;Robot Supurge;Ev ve Yasam;82;DEPO-1
+MAT-08C0;Akilli Telefon;Elektronik;70;DEPO-3
+MAT-230A;Hava Temizleyici;Ev ve Yasam;140;DEPO-2
+MAT-2493;Gunes Gozlugu;Aksesuar;444;DEPO-2
+MAT-1DF3;Kosu Bandi;Spor;284;DEPO-1
+MAT-13E2;Spor Ayakkabi;Giyim;826;DEPO-1
+MAT-1220;Dizustu Bilgisayar;Elektronik;832;DEPO-1
+MAT-1AEF;Spor Ayakkabi;Giyim;670;DEPO-1
+MAT-1DB9;Kol Saati;Aksesuar;98;DEPO-3
+MAT-25D0;Parfum;Kozmetik;886;DEPO-2
+MAT-1B01;Hava Temizleyici;Ev ve Yasam;990;DEPO-2
+MAT-21EE;Nevresim Takimi;Ev ve Yasam;146;DEPO-3
+MAT-09C4;Mutfak Robotu;Ev ve Yasam;603;DEPO-3
+MAT-0FCA;Yoga Matu;Spor;411;DEPO-3
+MAT-21F5;Hava Temizleyici;Ev ve Yasam;168;DEPO-3
+MAT-2314;Kislik Bot;Giyim;107;DEPO-3
+MAT-0F8F;Sirt Cantasi;Aksesuar;995;DEPO-3
+MAT-1944;Jean Pantolon;Giyim;991;DEPO-1
+MAT-25D4;Kemer;Aksesuar;435;DEPO-2
+MAT-1091;Mutfak Robotu;Ev ve Yasam;555;DEPO-2
+MAT-12CA;Yuz Temizleme Jeli;Kozmetik;900;DEPO-3
+MAT-0BD8;Yoga Matu;Spor;486;DEPO-2
+MAT-04F7;Gunes Gozlugu;Aksesuar;449;DEPO-3
+MAT-1F85;Dizustu Bilgisayar;Elektronik;930;DEPO-3
+MAT-1298;Pamuklu Tisort;Giyim;12;DEPO-1
+MAT-1D2B;Kosu Bandi;Spor;155;DEPO-2
+MAT-2597;Kol Saati;Aksesuar;714;DEPO-1
+MAT-1576;Futbol Topu;Spor;826;DEPO-1
+MAT-0B0C;Kislik Bot;Giyim;70;DEPO-1
+MAT-16AD;Sampuan;Kozmetik;816;DEPO-3
+MAT-0B34;Dambil Seti;Spor;235;DEPO-1
+MAT-1A22;Kislik Bot;Giyim;593;DEPO-1
+MAT-11D4;Tenis Raketi;Spor;375;DEPO-2
+MAT-0720;Parfum;Kozmetik;227;DEPO-1
+MAT-1CEA;Dizustu Bilgisayar;Elektronik;897;DEPO-2
+MAT-241D;Deri Cuzdan;Aksesuar;56;DEPO-3
+MAT-0B61;Akilli Telefon;Elektronik;762;DEPO-1
+MAT-0D8A;Parfum;Kozmetik;699;DEPO-2
+MAT-23EA;Futbol Topu;Spor;169;DEPO-3
+MAT-205F;Tenis Raketi;Spor;902;DEPO-3
+MAT-162B;Akilli Telefon;Elektronik;919;DEPO-1
+MAT-0A50;Mutfak Robotu;Ev ve Yasam;961;DEPO-3
+MAT-08AA;Sampuan;Kozmetik;930;DEPO-2
+MAT-07A2;Deri Ceket;Giyim;235;DEPO-3
+MAT-136C;Dambil Seti;Spor;185;DEPO-2
+MAT-0FB4;Nevresim Takimi;Ev ve Yasam;805;DEPO-1
+MAT-1859;Kol Saati;Aksesuar;49;DEPO-1
+MAT-0C5A;Tenis Raketi;Spor;707;DEPO-3
+MAT-0908;Mutfak Robotu;Ev ve Yasam;271;DEPO-3
+MAT-0A90;Jean Pantolon;Giyim;790;DEPO-3
+MAT-14A6;Kol Saati;Aksesuar;676;DEPO-2
+MAT-0614;Pamuklu Tisort;Giyim;835;DEPO-1
+MAT-2171;Parfum;Kozmetik;681;DEPO-3
+MAT-0D4B;Kemer;Aksesuar;267;DEPO-2
+MAT-050E;Deri Cuzdan;Aksesuar;971;DEPO-1
+MAT-0858;Dambil Seti;Spor;242;DEPO-1
+MAT-15A7;Kahve Makinesi;Ev ve Yasam;865;DEPO-1
+MAT-18D0;Nemlendirici;Kozmetik;233;DEPO-2
+MAT-0D36;Kislik Bot;Giyim;231;DEPO-1
+MAT-1F7B;Gunes Gozlugu;Aksesuar;873;DEPO-2
+MAT-07F8;Spor Ayakkabi;Giyim;533;DEPO-2
+MAT-0EA8;Dizustu Bilgisayar;Elektronik;31;DEPO-2
+MAT-0D19;Parfum;Kozmetik;279;DEPO-3
+MAT-26E2;Gunes Gozlugu;Aksesuar;236;DEPO-1
+MAT-226D;Pamuklu Tisort;Giyim;888;DEPO-3
+MAT-1104;Nemlendirici;Kozmetik;525;DEPO-1
+MAT-040E;Yuz Temizleme Jeli;Kozmetik;280;DEPO-3
+MAT-0832;Deri Cuzdan;Aksesuar;893;DEPO-2
+MAT-0FFD;Yoga Matu;Spor;468;DEPO-3
+MAT-07C4;Gunes Kremi;Kozmetik;30;DEPO-3
+MAT-143B;Sirt Cantasi;Aksesuar;783;DEPO-3
+MAT-19E2;Tablet;Elektronik;266;DEPO-2
+MAT-0BA4;Deri Ceket;Giyim;172;DEPO-1
+MAT-18F6;Bluetooth Kulaklik;Elektronik;501;DEPO-3
+MAT-1A78;Jean Pantolon;Giyim;614;DEPO-1
+MAT-1CAE;Parfum;Kozmetik;396;DEPO-1
+MAT-19FF;Pamuklu Tisort;Giyim;837;DEPO-2
+MAT-2215;Sampuan;Kozmetik;536;DEPO-1
+MAT-0B3B;Futbol Topu;Spor;749;DEPO-1
+MAT-1FA3;Futbol Topu;Spor;840;DEPO-2
+MAT-045C;Tenis Raketi;Spor;395;DEPO-3
+MAT-142F;Kol Saati;Aksesuar;798;DEPO-2
+MAT-0955;Kosu Bandi;Spor;504;DEPO-3
+MAT-1914;Dambil Seti;Spor;738;DEPO-1
+MAT-06F2;Jean Pantolon;Giyim;223;DEPO-3
+MAT-1E33;Akilli Telefon;Elektronik;898;DEPO-2
+MAT-0E88;Yoga Matu;Spor;723;DEPO-2
+MAT-03E9;Jean Pantolon;Giyim;234;DEPO-1
+MAT-0B85;Tablet;Elektronik;938;DEPO-1
+MAT-077D;Deri Ceket;Giyim;112;DEPO-2
+MAT-0A95;Kosu Bandi;Spor;131;DEPO-2
+MAT-2593;Robot Supurge;Ev ve Yasam;314;DEPO-3
+MAT-0662;Sirt Cantasi;Aksesuar;911;DEPO-1
+MAT-0610;Futbol Topu;Spor;379;DEPO-2
+MAT-24E2;Kislik Bot;Giyim;392;DEPO-3
+MAT-04B7;Sampuan;Kozmetik;909;DEPO-2
+MAT-0766;Robot Supurge;Ev ve Yasam;524;DEPO-3
+MAT-13F5;Bluetooth Kulaklik;Elektronik;980;DEPO-2
+MAT-0A00;Yoga Matu;Spor;310;DEPO-3
+MAT-121E;Mutfak Robotu;Ev ve Yasam;759;DEPO-1
+MAT-169E;Deri Cuzdan;Aksesuar;297;DEPO-3
+MAT-1F79;Deri Ceket;Giyim;732;DEPO-2
+MAT-26DA;Kol Saati;Aksesuar;44;DEPO-1
+MAT-1F45;Kol Saati;Aksesuar;734;DEPO-3
+MAT-0BFF;Nevresim Takimi;Ev ve Yasam;413;DEPO-1
+MAT-1165;Kislik Bot;Giyim;541;DEPO-2
+MAT-1647;Akilli Saat;Elektronik;626;DEPO-2
+MAT-19E7;Kemer;Aksesuar;749;DEPO-2
+MAT-095A;Kahve Makinesi;Ev ve Yasam;195;DEPO-2
+MAT-126A;Gunes Gozlugu;Aksesuar;246;DEPO-2
+MAT-11EF;Kol Saati;Aksesuar;109;DEPO-2
+MAT-05F5;Kahve Makinesi;Ev ve Yasam;343;DEPO-2
+MAT-1610;Deri Cuzdan;Aksesuar;327;DEPO-2
+MAT-0A56;Pamuklu Tisort;Giyim;23;DEPO-3
+MAT-2469;Bluetooth Kulaklik;Elektronik;752;DEPO-2
+MAT-2403;Akilli Saat;Elektronik;75;DEPO-3
+MAT-198F;Deri Cuzdan;Aksesuar;469;DEPO-1
+MAT-065D;Parfum;Kozmetik;279;DEPO-2
+MAT-1150;Kemer;Aksesuar;266;DEPO-1
+MAT-1FB3;Spor Ayakkabi;Giyim;522;DEPO-1
+MAT-1060;Yoga Matu;Spor;116;DEPO-1
+MAT-11D8;Gunes Gozlugu;Aksesuar;641;DEPO-3
+MAT-08E2;Yoga Matu;Spor;966;DEPO-2
+MAT-07B0;Kosu Bandi;Spor;520;DEPO-1
+MAT-1C5E;Deri Ceket;Giyim;44;DEPO-2
+MAT-1822;Deri Cuzdan;Aksesuar;846;DEPO-1
+MAT-08B5;Akilli Saat;Elektronik;21;DEPO-2
+MAT-0CD9;Pamuklu Tisort;Giyim;225;DEPO-3
+MAT-2119;Parfum;Kozmetik;806;DEPO-1
+MAT-2193;Parfum;Kozmetik;303;DEPO-3
+MAT-0B99;Tenis Raketi;Spor;755;DEPO-3
+MAT-2468;Nevresim Takimi;Ev ve Yasam;785;DEPO-1
+MAT-0896;Tenis Raketi;Spor;811;DEPO-1
+MAT-1BB1;Mutfak Robotu;Ev ve Yasam;423;DEPO-2
+MAT-2201;Hava Temizleyici;Ev ve Yasam;657;DEPO-3
+MAT-07C2;Bluetooth Kulaklik;Elektronik;849;DEPO-1
+MAT-0FE8;Yoga Matu;Spor;156;DEPO-3
+MAT-23A5;Tenis Raketi;Spor;229;DEPO-2
+MAT-2290;Hava Temizleyici;Ev ve Yasam;98;DEPO-1
+MAT-1086;Tablet;Elektronik;498;DEPO-3
+MAT-104D;Deri Ceket;Giyim;503;DEPO-2
+MAT-2239;Parfum;Kozmetik;406;DEPO-1
+MAT-1932;Yuz Temizleme Jeli;Kozmetik;650;DEPO-2
+MAT-0EBC;Futbol Topu;Spor;664;DEPO-1
+MAT-16AE;Deri Ceket;Giyim;152;DEPO-1
+MAT-19C0;Sampuan;Kozmetik;426;DEPO-1
+MAT-1B93;Akilli Saat;Elektronik;111;DEPO-2
+MAT-1FB5;Nemlendirici;Kozmetik;851;DEPO-2
+MAT-1C3C;Futbol Topu;Spor;803;DEPO-2
+MAT-0881;Yoga Matu;Spor;674;DEPO-1
+MAT-2412;Nevresim Takimi;Ev ve Yasam;953;DEPO-3
+MAT-1D92;Kosu Bandi;Spor;30;DEPO-3
+MAT-1863;Yuz Temizleme Jeli;Kozmetik;408;DEPO-1
+MAT-141A;Spor Ayakkabi;Giyim;792;DEPO-1
+MAT-1B64;Sirt Cantasi;Aksesuar;973;DEPO-1
+MAT-1ED6;Spor Ayakkabi;Giyim;165;DEPO-3
+MAT-1E6B;Kahve Makinesi;Ev ve Yasam;99;DEPO-1
+MAT-08EE;Dambil Seti;Spor;360;DEPO-2
+MAT-2391;Kol Saati;Aksesuar;454;DEPO-2
+MAT-0AEE;Kislik Bot;Giyim;831;DEPO-1
+MAT-1C74;Pamuklu Tisort;Giyim;896;DEPO-2
+MAT-1EBD;Tenis Raketi;Spor;229;DEPO-1
+MAT-03F1;Hava Temizleyici;Ev ve Yasam;993;DEPO-2
+MAT-1C7F;Tablet;Elektronik;729;DEPO-1
+MAT-090C;Mutfak Robotu;Ev ve Yasam;589;DEPO-2
+MAT-2023;Sampuan;Kozmetik;176;DEPO-2
+MAT-177A;Dizustu Bilgisayar;Elektronik;685;DEPO-2
+MAT-05CA;Dizustu Bilgisayar;Elektronik;117;DEPO-2
+MAT-267D;Tablet;Elektronik;441;DEPO-1
+MAT-21AE;Sampuan;Kozmetik;169;DEPO-3
+MAT-0834;Hava Temizleyici;Ev ve Yasam;518;DEPO-1
+MAT-06E9;Futbol Topu;Spor;329;DEPO-3
+MAT-1E64;Kemer;Aksesuar;176;DEPO-1
+MAT-0D15;Akilli Saat;Elektronik;540;DEPO-2
+MAT-1E54;Kosu Bandi;Spor;45;DEPO-1
+MAT-0430;Bluetooth Kulaklik;Elektronik;657;DEPO-1
+MAT-06AB;Gunes Kremi;Kozmetik;790;DEPO-1
+MAT-17A3;Deri Ceket;Giyim;526;DEPO-3
+MAT-242A;Kemer;Aksesuar;821;DEPO-1
+MAT-253D;Mutfak Robotu;Ev ve Yasam;847;DEPO-2
+MAT-130A;Deri Ceket;Giyim;363;DEPO-3
+MAT-067D;Yoga Matu;Spor;821;DEPO-2
+MAT-1116;Pamuklu Tisort;Giyim;320;DEPO-2
+MAT-0FF3;Futbol Topu;Spor;666;DEPO-3
+MAT-20FE;Tenis Raketi;Spor;357;DEPO-3
+MAT-1BBB;Tenis Raketi;Spor;881;DEPO-1
+MAT-13AD;Tablet;Elektronik;415;DEPO-2
+MAT-0EC9;Tablet;Elektronik;518;DEPO-2
+MAT-1A7E;Jean Pantolon;Giyim;123;DEPO-1
+MAT-053C;Hava Temizleyici;Ev ve Yasam;779;DEPO-3
+MAT-0DA8;Akilli Telefon;Elektronik;852;DEPO-3
+MAT-10AB;Deri Ceket;Giyim;475;DEPO-3
+MAT-257D;Dambil Seti;Spor;948;DEPO-3
+MAT-24DB;Yoga Matu;Spor;499;DEPO-3
+MAT-2639;Dizustu Bilgisayar;Elektronik;438;DEPO-3
+MAT-21B5;Kosu Bandi;Spor;143;DEPO-3
+MAT-228A;Jean Pantolon;Giyim;587;DEPO-3
+MAT-20B5;Mutfak Robotu;Ev ve Yasam;797;DEPO-2
+MAT-2700;Hava Temizleyici;Ev ve Yasam;262;DEPO-2
+MAT-2446;Bluetooth Kulaklik;Elektronik;791;DEPO-1
+MAT-0DCA;Tenis Raketi;Spor;946;DEPO-2
+MAT-0DC9;Tablet;Elektronik;401;DEPO-1
+MAT-0600;Kahve Makinesi;Ev ve Yasam;88;DEPO-1
+MAT-2307;Kislik Bot;Giyim;137;DEPO-1
+MAT-1A79;Yoga Matu;Spor;998;DEPO-3
+MAT-14E5;Tenis Raketi;Spor;139;DEPO-3
+MAT-1D40;Nemlendirici;Kozmetik;651;DEPO-2
+MAT-181F;Parfum;Kozmetik;472;DEPO-1
+MAT-1930;Gunes Kremi;Kozmetik;165;DEPO-2
+MAT-1CEE;Dambil Seti;Spor;89;DEPO-1
+MAT-0A4E;Kislik Bot;Giyim;561;DEPO-1
+MAT-10C4;Gunes Gozlugu;Aksesuar;829;DEPO-2
+MAT-22A6;Nevresim Takimi;Ev ve Yasam;583;DEPO-1
+MAT-09F5;Nemlendirici;Kozmetik;464;DEPO-1
+MAT-1569;Deri Cuzdan;Aksesuar;583;DEPO-3
